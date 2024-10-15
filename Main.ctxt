@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ This\ is\ the\ Main\ class\ for\ SimpleGeometry.\ To\ start\ it\ simply\ create\ a\ Circle,\ Rectangle,\ \r\n\ or\ Triangle\ and\ insert\ the\ appropriate\ values\ for\ each\ one.\ Then\ add\ these\ to\ the\ "shapes"\ ArrayList\r\n\ and\ run\ the\ program\!\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

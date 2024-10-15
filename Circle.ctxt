@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ This\ is\ the\ Circle\ class,\ it\ is\ a\ subclass\ of\ Shape.\ It\ will\ take\ in\ \r\n\ a\ radius,\ then\ calculate\ the\ area\ and\ perimeter\ of\ it.\r\n
+comment1.params=shape\ radius
+comment1.target=Circle(java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ calculateArea()
+comment3.params=
+comment3.target=double\ calculatePerimeter()
+numComments=4

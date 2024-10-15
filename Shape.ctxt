@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ This\ is\ the\ Shape\ class,\ it\ will\ take\ in\ Shapes\ and\ \r\n\ calculate\ the\ area,\ perimeter,\ and\ return\ the\ information\ to\ the\ user.\r\n\r\n
+comment1.params=shape
+comment1.target=Shape(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getShape()
+comment3.params=
+comment3.target=double\ calculateArea()
+comment4.params=
+comment4.target=double\ calculatePerimeter()
+comment5.params=
+comment5.target=void\ displayInfo()
+numComments=6

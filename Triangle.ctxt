@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ This\ is\ the\ Triangle\ class,\ it\ is\ a\ subclass\ of\ Shape.\ It\ will\ take\ in\ 3\ side\ values\r\n\ and\ then\ return\ the\ area\ and\ perimeter\ of\ the\ triangle\ with\ those\ values.\r\n
+comment1.params=shape\ side1\ side2\ side3
+comment1.target=Triangle(java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calculateArea()
+comment3.params=
+comment3.target=double\ calculatePerimeter()
+numComments=4
